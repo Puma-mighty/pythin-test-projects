@@ -1,0 +1,1 @@
+print("Tiger is powerful!!!") 
